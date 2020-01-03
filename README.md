@@ -1,4 +1,4 @@
-# Project #1 - Create and host a website  
+# Web Development Assessment - Create and host a website  
 **Create a single page personal website from scratch (using HTML and CSS) and host it on GitHub.**
 
 The content for this personal website does not have to be yours - you are free to use another person, a celebrity, a business, a pet (or anything fun, really!) as an example.
