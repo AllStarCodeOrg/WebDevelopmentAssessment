@@ -13,13 +13,13 @@ You are **required** to host your website GitHub.
 
 ---
 # Rubric
-### HOSTING
+### Hosting
 Websites should be properly hosted on GitHub.
-### CONTENT
+### Content
 Ideal websites will have content typically associated with a personal website such as the person’s name, an 'About' section, accolades or projects, a contact section, etc. Anything additional, such as interactive components, will count towards the BONUS.
-### STYLE
+### Style
 Although style can be subjective, ideal websites will have a clear intentional styling. A consistent color palette, font, and imagery should play a role in the overall look and 'feel' of the website. Anything additional, such as animations, will count towards the BONUS.
-### CODE
+### Code
 The HTML and CSS documents should be clear and organized. Any libraries used will not count towards this criteria. Anything additional, such as custom JavaScript, will count towards the BONUS.
 ### BONUS
 Although not required, any additional effort or complexity will be taken into account in the BONUS section. 
