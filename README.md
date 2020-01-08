@@ -8,7 +8,8 @@ The restrictions for this project are light. Have fun with this!
 -  You can use CSS and JS libraries such as jQuery and Bootstrap if you prefer, but they are not required.
 -  You are not required to include JavaScript in your website. It will count towards the BONUS if you do (see Rubric below).
 
-You are required to host your website GitHub. If you are unfamiliar with Git version control or the GitHub platform, please follow these [painfully detailed instructions](https://docs.google.com/presentation/d/1Q5OhMybXsA-Rq4e3RpwoOrsDO1qjwJ4EQXT1DJDe3wY/edit?usp=sharing).
+You are required to host your website GitHub.  
+-  If you are unfamiliar with Git version control or the GitHub platform, please follow these [painfully detailed instructions](https://docs.google.com/presentation/d/1Q5OhMybXsA-Rq4e3RpwoOrsDO1qjwJ4EQXT1DJDe3wY/edit?usp=sharing).
 
 ---
 # Rubric
