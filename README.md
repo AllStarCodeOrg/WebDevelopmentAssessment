@@ -23,3 +23,4 @@ Although style can be subjective, ideal websites will have a clear intentional s
 The HTML and CSS documents should be clear and organized. Any libraries used will not count towards this criteria. Anything additional, such as custom JavaScript, will count towards the BONUS.
 ### BONUS
 Although not required, any additional effort or complexity will be taken into account in the BONUS section. 
+
